@@ -4,7 +4,7 @@ My name is David, I am a German Digital Analytcs Engineer and wannabe developer 
 
 I would take whatever you see in these public GitHub repos with a grain of salt. They are mostly side projects and built with questionable practices and commit hygiene! 😅
 
-📈 digital analytics dude @assurance.company  
+📈 digital analytics dude @SCAYLE  
 👨‍💻software developer @sensor.community   
 
 
